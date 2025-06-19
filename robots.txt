@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /crawler-dummy-website/page4.html
+Disallow: /
